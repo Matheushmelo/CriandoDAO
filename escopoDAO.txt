@@ -1,0 +1,13 @@
+Escopo de criação de uma DAO
+
+Nome: LearnDAO
+
+Missão: A missão da LearnDAO é criar uma comunidade de ensino na área de tecnologia e investimentos, tudo focado em Web3. O diferencial da DAO seria a forma de acesso,
+para ter acesso ao conteúdo, as pessoas irão precisar comprar um NFT, e inicialmente esse NFT seria disponibilizado por um valor simbólico, para que pessoas com condições financeiras
+menos favorável possa ter acesso. Será emitido um número limitado de NFT, gerando uma escassez na forma de acesso ao conteúdo.
+Após todos os NFTs serem adiquiridos, quem quiser ter acesso a LearnDAO terá que comprar o NFT de quem já faz parte, podendo a pessoa cobrar o preço que entender ser justo pelo NFT.
+Isso fará com que as pessoas tenha uma familiaridade maior com a parte de negociações na Web3, e também com a transferência de NFT de uma carteira pra outra, por exemplo.
+Por fim, de início, também iremos criar um token de governança, onde quem adquirir poderá votar não só sobre o futuro da LearnDAO como um todo, mas também em qual o próximo conteúdo a ser lançado e quemn irá ministrar esse conteúdo.
+
+Qual a entrega da DAO: A LearnDAO irá entregar um produto digital, onde todos os cursos oferecidos pela mesma será de forma 100% online.
+
